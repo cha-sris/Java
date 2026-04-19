@@ -1,3 +1,5 @@
+package src.basics;
+
 public class ToString {
 	public static void main(String [] args){
 	CarForToString car = new CarForToString("Ford", "Mustang", 1998, "Black");

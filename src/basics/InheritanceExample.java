@@ -40,7 +40,6 @@ class Cat extends Animals{
     void speak(){
         System.out.println("The cat goes *meow.");
     }
-
 }
 
 // there can only be one public class per file.

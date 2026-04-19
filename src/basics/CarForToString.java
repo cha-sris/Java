@@ -1,3 +1,5 @@
+package src.basics;
+
 public class CarForToString {
 	
 	String make;
